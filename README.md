@@ -7,6 +7,7 @@ tech stack:
 3. database- mysql
    
 features:
-1. In built menu
-2. automatically adds the bill records to the database and allows you to see them directly
-3. creates the database and the table automatically when run in a new system 
+1. Secure user login via password authentication
+2. In built menu
+3. automatically adds the bill records to the database and allows you to see them directly
+4. creates the database and the table automatically when run in a new system 
